@@ -3,7 +3,7 @@ name world_104_114
 width 50
 height 50
 msg
-Modified: 2014-04-19 Kevin Zheng
+Modified: 2018-12-30 Kevin Zheng
 endmsg
 outdoor 1
 tile_path_1 world_104_113
@@ -8907,6 +8907,10 @@ y 40
 elevation 13
 end
 arch treefort2
+name General Store
+slaying ../inn_and_outpost/general_store
+hp 6
+sp 18
 x 33
 y 40
 end
